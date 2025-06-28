@@ -11,26 +11,9 @@
 
 ### 📊 Estatísticas
 
-<p>
-  <img  
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Marcuszki&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcuszki&show_icons=true&theme=midnight-purple&&include_all_commits=truelocale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuszki&hide_progress=falset&theme=midnight-purple&layout=compact)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuszki&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
-<br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br>
 
 ## Ferramentas e Tecnologias que eu utilizo 💻 ⚙️
 
