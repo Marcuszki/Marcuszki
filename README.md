@@ -1,4 +1,4 @@
-## Olá eu so o Marcus Vinicius, Bem vindo ao meu perfil 
+## Olá eu sou Marcus Vinicius, Bem vindo ao meu perfil 
 Apaixonado por tecnologia e estudante de Desenvolvimento de Sistemas. Este repositório é onde compartilho meus projetos pessoais e acadêmicos.
 - 👨🏾‍🎓 Me graduando Analise e desenvolvimento de sistemas pela faculdade PUC - Minas
 - 🎯 Focado em me tornar Full Stack Developer
