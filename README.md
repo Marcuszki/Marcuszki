@@ -17,7 +17,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Marcuszki&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Marcuszki&show_icons=true&theme=midnight-purple&include_all_commits=false&locale=pt-br" 
   />
 
 <img 
