@@ -23,6 +23,14 @@ Apaixonado por tecnologia e estudante de Desenvolvimento de Sistemas. Este repos
 
 <br>
 
+<div align="center">
+
+[![Spotify](https://novatorem-klr5.vercel.app/api/spotify/?background_color=262626&border_color=fefeb6)](https://open.spotify.com/user/22umztjph2r7amuo4na7ntwzq)
+ 
+ </div>
+ 
+<br>
+
 <div>
   <img align="center" alt="" src=https://komarev.com/ghpvc/?username=your-github-Marcuszki&style=for-the-badge&color=blueviolet&abbreviated=true/>
 </div>
