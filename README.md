@@ -26,7 +26,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuszki&hi
   />
 
 </p>
-<br><br><br><br><br><br><br><br><br> <!-- Isso força uma quebra de linha para afastar bem -->
+<br><br><br><br><br><br><br><br><br> <br><br><br><!-- Isso força uma quebra de linha para afastar bem -->
 
 ## Ferramentas e Tecnologias que eu utilizo 💻 ⚙️
 
