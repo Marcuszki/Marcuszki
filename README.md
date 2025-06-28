@@ -19,7 +19,7 @@
     style="padding-right: 10px;" 
 src="https://github-readme-stats.vercel.app/api?username=Marcuszki&show_icons=true&theme=midnight-purple&locale=pt-br"
   /><img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
       height="200" 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuszki&hide_progress=falset&theme=midnight-purple&layout=compact"
