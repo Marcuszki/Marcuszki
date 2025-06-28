@@ -18,22 +18,15 @@
     height="200" 
     style="padding-right: 10px;" 
 src="https://github-readme-stats.vercel.app/api?username=Marcuszki&show_icons=true&theme=midnight-purple&locale=pt-br"
-  />
-
-
-  <img 
+  /><img 
       align="left" 
       alt="GitHub Stats" 
-      height="200"
+      height="200" 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuszki&hide_progress=falset&theme=midnight-purple&layout=compact"
   />
 
 </p>
 <br><br><br><br><br><br><br><br><br> <!-- Isso força uma quebra de linha para afastar bem -->
-<br><br><br><br><br><br><br><br><br> <!-- Isso força uma quebra de linha para afastar bem -->
-
-
-
 
 ## Ferramentas e Tecnologias que eu utilizo 💻 ⚙️
 
