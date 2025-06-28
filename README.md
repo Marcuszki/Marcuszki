@@ -11,9 +11,10 @@ Apaixonado por tecnologia e estudante de Desenvolvimento de Sistemas. Este repos
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcuszki&show_icons=true&theme=midnight-purple&&include_all_commits=truelocale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuszki&hide_progress=falset&theme=midnight-purple&layout=compact)
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marcuszki&show_icons=true&theme=midnight-purple&&include_all_commits=truelocale=pt-br&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuszki&hide_progress=falset&theme=midnight-purple&layout=compact&card_width=320&langs_count=6&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ## Ferramentas e Tecnologias que eu utilizo 💻 ⚙️
 
