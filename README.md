@@ -8,7 +8,7 @@ Apaixonado por tecnologia e estudante de Desenvolvimento de Sistemas. Este repos
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_arcusv?igsh=MXZ1ajd5MzU5cHI4Yg%3D%3D&utm_source=qr)
 
 
-### 📊 Estatísticas
+### Estatísticas 📊 
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Marcuszki&show_icons=true&theme=midnight-purple&&include_all_commits=truelocale=pt-br&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph"  />
